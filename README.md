@@ -1,5 +1,4 @@
 # Hi, I'm Nevil 👋
-
 AI & DS student · exploring where intelligent systems meet storytelling  
 Based in Germany · building things that matter
 
@@ -25,11 +24,29 @@ Based in Germany · building things that matter
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 ---
 
 ## GitHub Stats
 
-![Nevil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevil-codes&show_icons=true&theme=default&hide_border=true)
+![Nevil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevil-codes&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevil-codes&layout=compact&hide_border=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nevil-codes&theme=default&hide_border=true)
+
+---
+
+## Achievements & Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nevil-codes&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
