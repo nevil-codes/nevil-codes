@@ -42,11 +42,6 @@ Based in Germany · building things that matter
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nevil-codes&theme=default&hide_border=true)
 
----
-
-## Achievements & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nevil-codes&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
