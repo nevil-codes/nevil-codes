@@ -64,9 +64,9 @@ AI & Data Science student focused on **production-grade machine learning** and *
 
 <div align="center">
 
-![Nevil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevil-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
+![Nevil's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nevil-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevil-codes&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nevil-codes&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nevil-codes&theme=tokyonight&hide_border=true&background=0d1117)
 
