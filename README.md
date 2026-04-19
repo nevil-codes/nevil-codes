@@ -78,7 +78,7 @@ AI & Data Science student focused on **production-grade machine learning** and *
 
 ```
 Phase 0  ████████████████████  Environment & Mindset     ✅ Complete
-Phase 1  ██░░░░░░░░░░░░░░░░░░  Math Foundations          🔄 In Progress
+Phase 1  ████████████████████  Math Foundations          ✅ Complete
 Phase 2  ░░░░░░░░░░░░░░░░░░░░  Python Mastery            ⏳ Next
 Phase 3  ░░░░░░░░░░░░░░░░░░░░  Classical ML              ⏳ Upcoming
 Phase 4  ░░░░░░░░░░░░░░░░░░░░  Deep Learning             ⏳ Upcoming
